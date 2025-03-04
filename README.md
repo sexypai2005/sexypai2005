@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jay poddar
-- 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... c/python
+- 👀 I’m interested in ... cybersecurity,webdev
+- 🎓 Completed Learning ... c,python,bash,postgressql
+- 🌱 I’m currently learning ... html css, javascript 
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...am noob
+- ⚡ Fun fact: ...no one helped me
 
 <!---
 sexypai2005/sexypai2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
